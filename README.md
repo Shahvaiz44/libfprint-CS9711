@@ -15,6 +15,10 @@ serious without serious testing.**
 
 Thanks to stormerxd for contributing [instructions here](https://github.com/ericlinagora/libfprint-CS9711/issues/5#issuecomment-2564730532) .
 
+Thanks to Aryan-Techie for contributing [more recent instructions here](https://github.com/ddlsmurf/libfprint-CS9711/issues/7) .
+
+*(Sorry I cannot test these so I'll just link to both)*
+
 ## Nix
 
 ```nix
