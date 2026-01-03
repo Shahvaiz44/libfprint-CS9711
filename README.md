@@ -1,3 +1,11 @@
+# Transfer
+
+Please use the following fork: https://github.com/archeYR/libfprint-CS9711
+
+This repo is not maintained anymore sorry.
+
+---
+
 
 # Proposal fork for support of Chipsailing CS9711Fingprint
 
